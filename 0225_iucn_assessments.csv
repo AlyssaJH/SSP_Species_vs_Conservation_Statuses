@@ -1,0 +1,286 @@
+taxon,common_name,genus_name,species_name,scientific_name,assessment,population_trend,assessment_scope
+Mammal,Aardvark,Orycteropus,afer,Orycteropus afer,LC,Unknown,Global
+Mammal,Addax,Addax,nasomaculatus,Addax nasomaculatus,CR,Decreasing,Global
+Mammal,"Agouti, Brazilian",Dasyprocta,leporina,Dasyprocta leporina,LC,Stable,Global
+Reptile,"Alligator, Chinese",Alligator,sinensis,Alligator sinensis,CR,Stable,Global
+Mammal,"Anteater, Giant",Myrmecophaga,tridactyla,Myrmecophaga tridactyla,VU,Decreasing,Global
+Bird,"Aracari, Curl-Crested",Pteroglossus,beauharnaisii,Pteroglossus beauharnaisii,LC,Decreasing,Global
+Bird,"Aracari, Green",Pteroglossus,viridis,Pteroglossus viridis,LC ,Decreasing,Global
+Bird,"Argus, Great",Argusianus,argus,Argusianus argus,VU,Decreasing,Global
+Mammal,"Armadillo, Screaming",Chaetophractus,vellerosus,Chaetophractus,LC,Stable,Global
+Mammal,"Armadillo, Six-Banded",Euphractus,sexcinctus,Euphractus sexcinctus,LC,Stable,Global
+Mammal,"Armadillo, Southern Three-Banded",Tolypeutes,matacus,Tolypeutes matacus,NT,Decreasing,Global
+Mammal,"Baboon, Hamadryas",Papio,hamadryas,Papio hamadryas,LC,Increasing,Global
+Bird,"Barbet, Red and Yellow",Trachyphonus,erythrocephalus,Trachyphonus erythrocephalus,LC,Stable,Global
+Mammal,"Bat, Egyptian Fruit",Rousettus,aegyptiacus,Rousettus aegyptiacus,LC,Stable,Global
+Mammal,"Bat, Rodrigues Fruit",Pteropus,rodricensis,Pteropus rodricensis,EN,Increasing,Global
+Mammal,"Bat, Straw-Colored Fruit",Eidolon,helvum,Eidolon helvum,NT ,Decreasing,Global
+Mammal,"Bear, Andean Spectacled",Tremarctos,ornatus,Tremarctos ornatus,VU,Decreasing,Global
+Mammal,"Bear, Sloth",Melursus,ursinus,Melursus ursinus,VU,Decreasing,Global
+Mammal,"Beaver, American",Castor,canadensis,Castor canadensis,LC,Stable,Global
+Mammal,Binturong,Arctictis,binturong,Arctictis binturong,VU,Decreasing,Global
+Bird,"Bird-of-Paradise, Raggiana",Paradisaea,raggiana,Paradisaea raggiana,LC,Decreasing,Global
+Reptile,"Boa, Jamaican",Chilabothrus,subflavus,Chilabothrus subflavus,VU,Decreasing,Global
+Mammal,"Bongo, Eastern",Tragelaphus,eurycerus,Tragelaphus eurycerus,NT,Decreasing,Global
+Bird,"Cacique, Yellow-Rumped",Cacicus,cela,Cacicus cela,LC,Decreasing,Global
+Mammal,Capybara,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,LC,Stable,Global
+Bird,"Cardinal, Red-Capped",Paroaria,gularis,Paroaria gularis,LC,Stable,Global
+Bird,"Cassowary, Southern (Double-wattled)",Casuarius,casuarius,Casuarius casuarius,LC,Decreasing,Global
+Mammal,"Cat, Pallas",Otocolobus,manul,Otocolobus manul,LC,Decreasing,Global
+Mammal,"Cat, Sand",Felis,margarita,Felis margarita,LC,Unknown,Global
+Mammal,Cheetah,Acinonyx,jubatus,Acinonyx jubatus,VU ,Decreasing,Global
+Mammal,Chimpanzee,Pan,troglodytes,Pan troglodytes,EN,Decreasing,Global
+Reptile,"Chuckwalla, San Esteban",Sauromalus,varius,Sauromalus varius,VU,Unknown,Global
+Reptile,"Cobra, King",Ophiophagus,hannah,Ophiophagus hannah,VU,Decreasing,Global
+Mammal,"Colobus, Angolan",Colobus,angolensis,Colobus angolensis,VU,Decreasing,Global
+Mammal,"Colobus, Guereza",Colobus,guereza,Colobus guereza,LC,Decreasing,Global
+Bird,"Condor, Andean",Vultur,gryphus,Vultur gryphus,VU,Decreasing,Global
+Bird,"Coua, Crested",Coua,cristata,Coua cristata,LC,Decreasing,Global
+Bird,"Crane, Black Crowned",Balearica,pavonina,Balearica pavonina,VU,Decreasing,Global
+Bird,"Crane, Demoiselle",Anthropoides,virgo,Anthropoides virgo,LC,Increasing,Global
+Bird,"Crane, Grey-Crowned",Balearica,regulorum,Balearica regulorum,EN,Decreasing,Global
+Bird,"Crane, Red-Crowned",Grus,japonensis,Grus japonensis,VU,Decreasing,Global
+Bird,"Crane, Wattled",Bugeranus,carunculatus,Bugeranus carunculatus,VU,Decreasing,Global
+Bird,"Crane, White-Naped",Grus,vipio,Grus vipio,VU,Decreasing,Global
+Bird,"Curassow, Blue-Billed",Crax,alberti,Crax alberti,CR,Decreasing,Global
+Bird,"Curassow, Helmeted",Pauxi,pauxi,Pauxi pauxi,VU,Decreasing,Global
+Mammal,"Deer, Western Tufted",Elaphodus,cephalophus,Elaphodus cephalophus,NT,Decreasing,Global
+Bird,"Dikkop, Spotted",Burhinus,capensis,Burhinus capensis,LC,Unknown,Global
+Mammal,"Dog, African Painted",Lycaon,pictus,Lycaon pictus,EN,Decreasing,Global
+Bird,"Dove, Beautiful Fruit",Ptilinopus,pulchellus,Ptilinopus pulchellus,LC,Decreasing,Global
+Bird,"Dove, Black-Naped Fruit",Ptilinopus,melanospilus,Ptilinopus melanospilus,LC,Decreasing,Global
+Bird,"Dove, Luzon Bleeding Heart",Gallicolumba,luzonica,Gallicolumba luzonica,NT,Decreasing,Global
+Bird,"Dove, Mindanao Bleeding Heart",Gallicolumba,crinigera,Gallicolumba crinigera,VU,Decreasing,Global
+Reptile,"Dragon, Komodo",Varanus,komodoensis,Varanus komodoensis,EN,Stable,Global
+Bird,"Duck, Spotted Whistling",Dendrocygna,guttata,Dendrocygna guttata,LC,Stable,Global
+Bird,West Indian Whistling,Dendrocygna,arborea,Dendrocygna arborea,NT,Decreasing,Global
+Mammal,"Duiker, Blue",Philantomba,monticola,Philantomba monticola,LC,Decreasing,Global
+Mammal,"Duiker, Yellow-Backed",Cephalophus,silvicultor,Cephalophus silvicultor,NT,Decreasing,Global
+Mammal,"Elephant, African",Loxodonta,africana,Loxodonta africana,EN,Decreasing,Global
+Mammal,"Elephant, Asian",Elephas,maximus,Elephas maximus,EN,Decreasing,Global
+Bird,"Flamingo, Caribbean",Phoenicopterus,ruber,Phoenicopterus ruber,LC,Increasing,Global
+Bird,"Flamingo, Chilean",Phoenicopterus,chilensis,Phoenicopterus chilensis,NT,Decreasing,Global
+Bird,"Flamingo, Greater",Phoenicopterus,roseus,Phoenicopterus roseus,LC,Increasing,Global
+Bird,"Flamingo, Lesser",Phoeniconaias,minor,Phoeniconaias minor,NT,Decreasing,Global
+Mammal,Fossa,Cryptoprocta,ferox,Cryptoprocta ferox,VU,Decreasing,Global
+Mammal,"Fox, Bat-Eared",Otocyon,megalotis,Otocyon megalotis,LC,Stable,Global
+Mammal,"Fox, Fennec",Vulpes,zerda,Vulpes zerda,LC,Stable,Global
+Mammal,"Fox, Swift",Vulpes,velox,Vulpes velox,LC,Stable,Global
+Amphibian,"Frog, Panamanian Golden (Ahogado)",Atelopus,zeteki,Atelopus zeteki,CR,Decreasing,Global
+Amphibian,"Frog, Panamanian Golden (Sora)",Atelopus,zeteki,Atelopus zeteki,CR,Decreasing,Global
+Bird,"Frogmouth, Tawny",Podargus,strigoides,Podargus strigoides,LC,Stable,Global
+Mammal,"Galago, Southern Lesser",Galago,moholi,Galago moholi,LC,Stable,Global
+Mammal,"Gazelle, Addra",Nanger,dama,Nanger dama,CR,Decreasing,Global
+Reptile,"Gecko, Giant Leaf-Tailed",Uroplatus,fimbriatus,Uroplatus fimbriatus,LC,Decreasing,Global
+Reptile,"Gecko, Henkel's Leaf-Tailed",Uroplatus,henkeli,Uroplatus henkeli,VU,Unknown,Global
+Reptile,"Gharial, Sunda",Tomistoma,schlegelii,Tomistoma schlegelii,EN,Decreasing,Global
+Mammal,"Gibbon, Lar (White-Handed)",Hylobates,lar,Hylobates lar,EN,Decreasing,Global
+Mammal,"Gibbon, White-Cheeked",Nomascus,leucogenys,Nomascus leucogenys,CR,Decreasing,Global
+Mammal,"Giraffe, Generic",Giraffa,camelopardalis,Giraffa camelopardalis,VU,Decreasing,Global
+Mammal,"Giraffe, Masai",Giraffa,camelopardalis,Giraffa camelopardalis,VU,Decreasing,Global
+Bird,"Goose, African Pygmy",Nettapus,auritus,Nettapus auritus,LC,Stable,Global
+Bird,"Goose, Red-Breasted",Branta,ruficollis,Branta ruficollis,VU,Decreasing,Global
+Bird,"Goose, Swan",Anser,cygnoid,Anser cygnoid,EN,Decreasing,Global
+Mammal,"Gorilla, Western Lowland",Gorilla,gorilla,Gorilla gorilla,CR,Decreasing,Global
+Bird,"Guineafowl, Crested",Guttera,pucherani,Guttera pucherani,LC,Stable,Global
+Bird,Hamerkop,Scopus,umbretta,Scopus umbretta,LC,Stable,Global
+Bird,"Heron, Boat-Billed",Cochlearius,cochlearius,Cochlearius cochlearius,LC,Decreasing,Global
+Mammal,"Hippopotamus, Pygmy",Choeropsis,liberiensis,Choeropsis liberiensis,EN,Decreasing,Global
+Mammal,"Hippopotamus, River",Hippopotamus,amphibius,Hippopotamus amphibius,VU,Stable,Global
+Mammal,"Hog, Red River",Potamochoerus,porcus,Potamochoerus porcus,LC,Decreasing,Global
+Bird,"Honeyeater, Blue-Faced",Entomyzon,cyanotis,Entomyzon cyanotis,LC,Stable,Global
+Bird,"Hornbill, Abyssinian Ground",Bucorvus,abyssinicus,Bucorvus abyssinicus,VU,Decreasing,Global
+Bird,"Hornbill, Red-Billed",Tockus,erythrorhynchus,Tockus erythrorhynchus,LC,Stable,Global
+Bird,"Hornbill, Rhinoceros",Buceros,rhinoceros,Buceros rhinoceros,VU,Decreasing,Global
+Bird,"Hornbill, Southern Ground",Bucorvus,leadbeateri,Bucorvus leadbeateri,VU,Decreasing,Global
+Bird,"Hornbill, Trumpeter",Bycanistes,bucinator,Bycanistes bucinator,LC,Decreasing,Global
+Bird,"Hornbill, Wrinkled",Rhabdotorrhinus,corrugatus,Rhabdotorrhinus corrugatus,EN,Decreasing,Global
+Mammal,"Horse, Asian Wild",Equus,ferus,Equus ferus,EN,Increasing,Global
+Bird,"Hwamei, Chinese",Garrulax,canorus,Garrulax canorus,LC,Unknown,Global
+Mammal,"Hyena, Spotted",Crocuta,crocuta,Crocuta crocuta,LC,Decreasing,Global
+Mammal,"Hyrax, Rock",Procavia,capensis,Procavia capensis,LC,Stable,Global
+Bird,"Ibis, African Sacred",Threskiornis,aethiopicus,Threskiornis aethiopicus,LC,Stable,Global
+Bird,"Ibis, Hadada",Bostrychia,hagedash,Bostrychia hagedash,LC,Increasing,Global
+Bird,"Ibis, Scarlet",Eudocimus,ruber,Eudocimus ruber,LC,Decreasing,Global
+Bird,"Ibis, Waldrapp",Geronticus,eremita,Geronticus eremita,EN,Stable,Global
+Reptile,"Iguana, Fiji Banded",Brachylophus,bulabula,Brachylophus bulabula,EN,Decreasing,Global
+Reptile,"Iguana, Grand Cayman Blue",Cyclura,lewisi,Cyclura lewisi,EN,Increasing,Global
+Reptile,"Iguana, Jamaican",Cyclura,collei,Cyclura collei,CR,Increasing,Global
+Mammal,Jaguar,Panthera,onca,Panthera onca,NT,Decreasing,Global
+Bird,"Jay, Plush Crested",Cyanocorax,chrysops,Cyanocorax chrysops,LC,Decreasing,Global
+Mammal,"Kangaroo, Red",Osphranter,rufus,Osphranter rufus,LC,Stable,Global
+Mammal,"Kangaroo, Western Gray",Macropus,fuliginosus,Macropus fuliginosus,LC,Increasing,Global
+Bird,"Kookaburra, Laughing",Dacelo,novaeguineae,Dacelo novaeguineae,LC,Decreasing,Global
+Mammal,"Kudu, Lesser",Tragelaphus,imberbis,Tragelaphus imberbis,NT,Decreasing,Global
+Mammal,"Langur, Francois'",Trachypithecus,francoisi,Trachypithecus francoisi,EN,Decreasing,Global
+Bird,"Lapwing, Masked",Vanellus,miles,Vanellus miles,LC,Increasing,Global
+Bird,"Lapwing, Spur-Winged",Vanellus,spinosus,Vanellus spinosus,LC,Increasing,Global
+Bird,"Laughingthrush, White-Crested",Garrulax,leucolophus,Garrulax leucolophus,LC,Decreasing,Global
+Bird,"Leiothrix, Red-Billed",Leiothrix,lutea,Leiothrix lutea,LC,Decreasing,Global
+Mammal,"Lemur, Black and White Ruffed",Varecia,variegata,Varecia variegata,CR,Decreasing,Global
+Mammal,"Lemur, Collared",Eulemur,collaris,Eulemur collaris,EN,Decreasing,Global
+Mammal,"Lemur, Mongoose",Eulemur,mongoz,Eulemur mongoz,CR,Decreasing,Global
+Mammal,"Lemur, Red Ruffed",Varecia,rubra,Varecia rubra,CR,Decreasing,Global
+Mammal,"Lemur, Ring-Tailed",Lemur,catta,Lemur catta,EN,Decreasing,Global
+Mammal,"Leopard, Clouded",Neofelis,nebulosa,Neofelis nebulosa,VU,Decreasing,Global
+Mammal,"Leopard, Snow",Panthera,uncia,Panthera uncia,VU,Decreasing,Global
+Bird,"Liocichla, Scarlet-faced",Liocichla,ripponi,Liocichla ripponi,LC,Decreasing,Global
+Mammal,Lion,Panthera,leo,Panthera leo,CR,Decreasing,Global
+Reptile,"Lizard, Beaded",Heloderma,horridum,Heloderma horridum,LC,Decreasing,Global
+Reptile,"Lizard, Caiman",Dracaena,guianensis,Dracaena guianensis,LC,Unknown,Global
+Reptile,"Lizard, Crocodile",Shinisaurus,crocodilurus,Shinisaurus crocodilurus,EN,Decreasing,Global
+Mammal,"Loris, Pygmy",Nycticebus,pygmaeus,Nycticebus pygmaeus,EN,Decreasing,Global
+Mammal,"Lynx, Canada",Lynx,canadensis,Lynx canadensis,LC,Stable,Global
+Mammal,"Macaque, Japanese",Macaca,fuscata,Macaca fuscata,LC,Stable,Global
+Bird,"Macaw, Blue-Throated",Ara,glaucogularis,Ara glaucogularis,CR,Stable,Global
+Bird,"Macaw, Hyacinth",Anodorhynchus,hyacinthinus,Anodorhynchus hyacinthinus,VU,Decreasing,Global
+Bird,"Macaw, Red-Fronted",Ara,rubrogenys,Ara rubrogenys,CR,Decreasing,Global
+Bird,"Magpie, Azure-Winged",Cyanopica,cyanus,Cyanopica cyanus,LC,Increasing,Global
+Mammal,Mandrill,Mandrillus,sphinx,Mandrillus sphinx,VU,Decreasing,Global
+Mammal,"Mara, Patagonian",Dolichotis,patagonum,Dolichotis patagonum,NT,Decreasing,Global
+Mammal,"Marmoset, Geoffroy's",Callithrix,geoffroyi,Callithrix geoffroyi,LC,Decreasing,Global
+Mammal,Meerkat,Suricata,suricatta,Suricata suricatta,LC,Stable,Global
+Bird,"Merganser, Scaly-Sided",Mergus,squamatus,Mergus squamatus,EN,Decreasing,Global
+Reptile,"Monitor, Black Tree",Varanus,beccarii,Varanus beccarii,DD,Decreasing,Global
+Mammal,"Monkey, Bolivian Gray Titi",Plecturocebus,donacophilus,Plecturocebus donacophilus,LC,Unknown,Global
+Mammal,"Monkey, Common Squirrel",Saimiri,sciureus,Saimiri sciureus,LC,Decreasing,Global
+Mammal,"Monkey, DeBrazza's",Cercopithecus,neglectus,Cercopithecus neglectus,LC,Unknown,Global
+Mammal,"Monkey, Mexican Spider",Ateles,geoffroyi,Ateles geoffroyi,EN,Decreasing,Global
+Mammal,"Monkey, Robust Black Spider",Ateles,fusciceps,Ateles fusciceps,EN,Decreasing,Global
+Mammal,"Monkey, Southern Black Howler",Alouatta,caraya,Alouatta caraya,NT,Decreasing,Global
+Bird,"Motmot, Blue-Crowned",Momotus,momota,Momotus momota,LC,Decreasing,Global
+Mammal,"Muntjac, Reeves'",Muntiacus,reevesi,Muntiacus reevesi,LC,Decreasing,Global
+Bird,"Myna, Bali",Leucopsar,rothschildi,Leucopsar rothschildi,CR,Decreasing,Global
+Mammal,Ocelot,Leopardus,pardalis,Leopardus pardalis,LC,Decreasing,Global
+Mammal,Okapi,Okapia,johnstoni,Okapia johnstoni,EN,Decreasing,Global
+Mammal,"Orangutan, Bornean",Pongo,pygmaeus,Pongo pygmaeus,CR,Decreasing,Global
+Mammal,"Orangutan, Sumatran",Pongo,abelii,Pongo abelii,CR,Decreasing,Global
+Bird,"Oropendola, Crested",Psarocolius,decumanus,Psarocolius decumanus,LC,Decreasing,Global
+Mammal,"Oryx, Scimitar-Horned",Oryx,dammah,Oryx dammah,EN,Increasing,Global
+Mammal,"Otter, Asian Small-Clawed",Aonyx,cinereus,Aonyx cinereus,VU,Decreasing,Global
+Mammal,"Otter, North American River",Lontra,canadensis,Lontra canadensis,LC,Stable,Global
+Bird,"Owl, Burrowing",Athene,cunicularia,Athene cunicularia,LC,Decreasing,Global
+Bird,"Owl, Snowy",Bubo,scandiacus,Bubo scandiacus,VU,Decreasing,Global
+Bird,"Owl, Spectacled",Pulsatrix,perspicillata,Pulsatrix perspicillata,LC,Decreasing,Global
+Mammal,"Panda, Red (fulgens)",Ailurus,fulgens,Ailurus fulgens,EN,Decreasing,Global
+Mammal,"Panda, Red (refulgens)",Ailurus,fulgens,Ailurus fulgens,EN,Decreasing,Global
+Bird,"Partridge, Crested Wood",Rollulus,rouloul,Rollulus rouloul,VU,Decreasing,Global
+Mammal,"Peccary, Chacoan",Catagonus,wagneri,Catagonus wagneri,EN,Decreasing,Global
+Bird,"Pelican, Pink-Backed",Pelecanus,rufescens,Pelecanus rufescens,LC,Stable,Global
+Bird,"Penguin, African",Spheniscus,demersus,Spheniscus demersus,CR,Decreasing,Global
+Bird,"Penguin, Gentoo (ellsworthi)",Pygoscelis,papua,Pygoscelis papua,LC,Stable,Global
+Bird,"Penguin, Humboldt",Spheniscus,humboldti,Spheniscus humboldti,VU,Decreasing,Global
+Bird,"Penguin, King",Aptenodytes,patagonicus,Aptenodytes patagonicus,LC,Increasing,Global
+Bird,"Penguin, Magellanic",Spheniscus,magellanicus,Spheniscus magellanicus,LC,Decreasing,Global
+Bird,"Penguin, Southern Rockhopper",Eudyptes,chrysocome,Eudyptes chrysocome,VU,Decreasing,Global
+Bird,"Pheasant, Palawan Peacock",Polyplectron,napoleonis,Polyplectron napoleonis,VU,Decreasing,Global
+Bird,"Pheasant, Vietnam",Lophura,edwardsi,Lophura edwardsi,CR,Unknown,Global
+Bird,"Pigeon, Green-Naped Pheasant",Otidiphaps,nobilis,Otidiphaps nobilis,LC,Decreasing,Global
+Bird,"Pigeon, Nicobar",Caloenas,nicobarica,Caloenas nicobarica,NT,Decreasing,Global
+Bird,"Pigeon, Victoria Crowned",Goura,victoria,Goura victoria,NT,Decreasing,Global
+Bird,"Pochard, Baer's",Aythya,baeri,Aythya baeri,CR,Decreasing,Global
+Mammal,"Porcupine, Cape",Hystrix,africaeaustralis,Hystrix africaeaustralis,LC,Stable,Global
+Mammal,"Porcupine, North American",Erethizon,dorsatum,Erethizon dorsatum,LC,Stable,Global
+Mammal,"Porcupine, Prehensile-Tailed",Coendou,prehensilis,Coendou prehensilis,LC,Stable,Global
+Mammal,"Pudu, Chilean (Southern)",Pudu,puda,Pudu puda,NT,Decreasing,Global
+Bird,"Puffin, Tufted",Fratercula,cirrhata,Fratercula cirrhata,LC,Stable,Global
+Reptile,"Rattlesnake, Aruba Island",Crotalus,durissus,Crotalus durissus,LC,Unknown,Global
+Reptile,"Rattlesnake, Eastern Massasauga",Sistrurus,catenatus,Sistrurus catenatus,LC,Unknown,Global
+Reptile,"Rattlesnake, Santa Catalina Island",Crotalus,catalinensis,Crotalus catalinensis,CR,Decreasing,Global
+Fish,"Ray, Spotted Eagle",Aetobatus,narinari,Aetobatus narinari,EN,Decreasing,Global
+Mammal,"Rhinoceros, Eastern Black",Diceros,bicornis,Diceros bicornis,CR,Increasing,Global
+Mammal,"Rhinoceros, Greater One-Horned",Rhinoceros,unicornis,Rhinoceros unicornis,VU,Increasing,Global
+Mammal,"Rhinoceros, Southern White",Ceratotherium,simum,Ceratotherium simum,NT,Decreasing,Global
+Mammal,Ringtail,Bassariscus,astutus,Bassariscus astutus,LC,Unknown,Global
+Bird,"Roadrunner, Greater",Geococcyx,californianus,Geococcyx californianus,LC,Increasing,Global
+Bird,"Roller, Blue-Bellied",Coracias,cyanogaster,Coracias cyanogaster,LC,Decreasing,Global
+Mammal,"Saki, White-Faced",Pithecia,pithecia,Pithecia pithecia,LC,Decreasing,Global
+Bird,"Screamer, Southern",Chauna,torquata,Chauna torquata,LC,Stable,Global
+Mammal,"Sea Lion, California",Zalophus,californianus,Zalophus californianus,LC,Increasing,Global
+Fish,"Seahorse, Big Bellied",Hippocampus,abdominalis,Hippocampus abdominalis,LC,Unknown,Global
+Fish,"Seahorse, Lined",Hippocampus,erectus,Hippocampus erectus,VU,Decreasing,Global
+Mammal,"Seal, Harbor",Phoca,vitulina,Phoca vitulina,LC,Unknown,Global
+Bird,"Seriema, Red-Legged",Cariama,cristata,Cariama cristata,LC,Stable,Global
+Mammal,Serval,Leptailurus,serval,Leptailurus serval,LC,Stable,Global
+Bird,"Shama, White-rumped",Copsychus,malabaricus,Copsychus malabaricus,LC,Decreasing,Global
+Fish,"Shark, Sand Tiger",Carcharias,taurus,Carcharias taurus,CR,Decreasing,Global
+Fish,"Shark, Zebra",Stegostoma,tigrinum,Stegostoma tigrinum,EN,Decreasing,Global
+Mammal,Siamang,Symphalangus,syndactylus,Symphalangus syndactylus,EN,Decreasing,Global
+Reptile,"Skink, Prehensile-Tailed",Corucia,zebrata,Corucia zebrata,NT,Decreasing,Global
+Mammal,"Sloth, Hoffman's Two-Toed",Choloepus,hoffmanni,Choloepus hoffmanni,LC,Decreasing,Global
+Mammal,"Sloth, Linne's Two-Toed",Choloepus,didactylus,Choloepus didactylus,LC,Decreasing,Global
+Bird,"Spoonbill, African",Platalea,alba,Platalea alba,LC,Stable,Global
+Bird,"Spoonbill, Roseate",Platalea,ajaja,Platalea ajaja,LC,Stable,Global
+Mammal,"Squirrel, Prevost's",Callosciurus,prevostii,Callosciurus prevostii,LC,Decreasing,Global
+Bird,"Starling, Emerald",Lamprotornis,iris,Lamprotornis iris,LC,Unknown,Global
+Bird,"Starling, Golden-Breasted",Lamprotornis,regius,Lamprotornis regius,LC,Stable,Global
+Bird,"Starling, Violet-Backed (Amethyst)",Cinnyricinclus,leucogaster,Cinnyricinclus leucogaster,LC,Decreasing,Global
+Bird,"Stilt, Black-Necked",Himantopus,himantopus,Himantopus himantopus,LC,Increasing,Global
+Fish,"Stingray, White-Blotched River",Potamotrygon,leopoldi,Potamotrygon leopoldi,VU,Decreasing,Global
+Bird,"Stork, Abdim's (White-Bellied)",Ciconia,abdimii,Ciconia abdimii,LC,Decreasing,Global
+Bird,"Stork, Marabou",Leptoptilos,crumenifer,Leptoptilos crumenifer,LC,Increasing,Global
+Bird,"Stork, Saddle-Billed",Ephippiorhynchus,senegalensis,Ephippiorhynchus senegalensis,LC,Decreasing,Global
+Bird,"Stork, White",Ciconia,ciconia,Ciconia ciconia,LC,Increasing,Global
+Bird,Sunbittern,Eurypyga,helias,Eurypyga helias,LC,Decreasing,Global
+Bird,"Swan, Coscoroba",Coscoroba,coscoroba,Coscoroba coscoroba,LC,Stable,Global
+Bird,"Swan, Trumpeter",Cygnus,buccinator,Cygnus buccinator,LC,Increasing,Global
+Mammal,"Takin, Sichuan",Budorcas,taxicolor,Budorcas taxicolor,VU,Decreasing,Global
+Mammal,"Tamandua, Southern",Tamandua,tetradactyla,Tamandua tetradactyla,LC,Unknown,Global
+Mammal,"Tamarin, Bearded Emperor",Tamarinus,subgrisescens,Tamarinus subgrisescens,LC,Stable,Global
+Mammal,"Tamarin, Cotton-Top",Oedipomidas,oedipus,Oedipomidas oedipus,CR,Decreasing,Global
+Mammal,"Tamarin, Golden Lion",Leontopithecus,rosalia,Leontopithecus rosalia,EN,Decreasing,Global
+Bird,"Tanager, Blue-Grey",Tangara,episcopus,Tangara episcopus,LC,Increasing,Global
+Bird,"Tanager, Silver-Beaked",Ramphocelus,carbo,Ramphocelus carbo,LC,Stable,Global
+Bird,"Tanager, Turquoise",Tangara,mexicana,Tangara mexicana,LC,Decreasing,Global
+Mammal,"Tapir, Malayan (Asian)",Tapirus,indicus,Tapirus indicus,EN,Decreasing,Global
+Bird,"Teal, Marbled",Marmaronetta,angustirostris,Marmaronetta angustirostris,NT,Decreasing,Global
+Mammal,"Tenrec, Lesser Madagascar Hedgehog",Echinops,telfairi,Echinops telfairi,LC,Stable,Global
+Bird,"Tern, Inca",Larosterna,inca,Larosterna inca,NT,Decreasing,Global
+Mammal,"Tiger, Amur",Panthera,tigris,Panthera tigris,EN,Decreasing,Global
+Mammal,"Tiger, Malayan",Panthera,tigris,Panthera tigris,EN,Decreasing,Global
+Mammal,"Tiger, Sumatran",Panthera,tigris,Panthera tigris,EN,Decreasing,Global
+Reptile,"Tortoise, African Pancake",Malacochersus,tornieri,Malacochersus tornieri,CR,Decreasing,Global
+Reptile,"Tortoise, Burmese Black",Manouria,emys,Manouria emys,CR,Decreasing,Global
+Reptile,"Tortoise, Burmese Brown Mountain",Manouria,emys,Manouria emys,CR,Decreasing,Global
+Reptile,"Tortoise, Burmese Star",Geochelone,platynota,Geochelone platynota,CR,Increasing,Global
+Reptile,"Tortoise, Egyptian",Testudo,kleinmanni,Testudo kleinmanni,CR,Decreasing,Global
+Reptile,"Tortoise, Galapagos (microphyes)",Chelonoidis,microphyes,Chelonoidis microphyes,EN,Unknown,Global
+Reptile,"Tortoise, Home's Hinge-Back",Kinixys,homeana,Kinixys homeana,CR,Decreasing,Global
+Reptile,"Tortoise, Madagascar Flat-Tailed",Pyxis,planicauda,Pyxis planicauda,CR,Decreasing,Global
+Reptile,"Tortoise, Madagascar Spider (Common)",Pyxis,arachnoides,Pyxis arachnoides,CR,Decreasing,Global
+Reptile,"Tortoise, Madagascar Spider (Northern)",Pyxis,arachnoides,Pyxis arachnoides,CR,Decreasing,Global
+Reptile,"Tortoise, Radiated",Astrochelys,radiata,Astrochelys radiata,CR,Decreasing,Global
+Bird,"Toucan, Keel-Billed",Ramphastos,sulfuratus,Ramphastos sulfuratus,NT,Decreasing,Global
+Bird,"Toucan, Toco",Ramphastos,toco,Ramphastos toco,LC,Decreasing,Global
+Bird,"Tragopan, Cabot's",Tragopan,caboti,Tragopan caboti,VU,Decreasing,Global
+Mammal,"Tree Kangaroo, Matschie's",Dendrolagus,matschiei,Dendrolagus matschiei,EN,Decreasing,Global
+Mammal,"Tree Shrew, Northern",Tupaia,belangeri,Tupaia belangeri,LC,Stable,Global
+Bird,"Troupial, Venezuelan",Icterus,icterus,Icterus icterus,LC,Stable,Global
+Bird,"Trumpeter, Grey-Winged",Psophia,crepitans,Psophia crepitans,LC,Decreasing,Global
+Bird,"Turaco, Great Blue",Corythaeola,cristata,Corythaeola cristata,LC,Decreasing,Global
+Bird,"Turaco, Lady Ross'",Musophaga,rossae,Musophaga rossae,LC,Decreasing,Global
+Bird,"Turaco, Red-Crested",Tauraco,erythrolophus,Tauraco erythrolophus,LC,Decreasing,Global
+Bird,"Turaco, Violaceous",Musophaga,violacea,Musophaga violacea,LC,Stable,Global
+Bird,"Turaco, White-Cheeked",Tauraco,leucotis,Tauraco leucotis,LC,Decreasing,Global
+Reptile,"Turtle, Black-Breasted Leaf",Geoemyda,spengleri,Geoemyda spengleri,EN,Decreasing,Global
+Reptile,"Turtle, Blanding's",Emydoidea,blandingii,Emydoidea blandingii,EN,Decreasing,Global
+Reptile,"Turtle, Coahulian Box",Terrapene,coahuila,Terrapene coahulia,EN,Decreasing,Global
+Reptile,"Turtle, Indochinese Box",Cuora,galbinifrons,Cuora galbinifrons,CR,Decreasing,Global
+Reptile,"Turtle, Malaysian Giant",Orlitia,borneensis,Orlitia borneensis,CR,Decreasing,Global
+Reptile,"Turtle, McCord's Box",Cuora,mccordi,Cuora mccordi,CR,Unspecified,Global
+Reptile,"Turtle, Pan's Box",Cuora,pani,Cuora pani,CR,Unspecified,Global
+Reptile,"Turtle, Rote Island Snake-Necked",Chelodina,mccordi,Chelodina mccordi,CR,Decreasing,Global
+Reptile,"Turtle, Spiny",Heosemys,spinosa,Heosemys spinosa,EN,Decreasing,Global
+Reptile,"Turtle, Spotted",Clemmys,guttata,Clemmys guttata,EN,Decreasing,Global
+Bird,"Vulture, Cinereous",Aegypius,monachus,Aegypius monachus,NT,Decreasing,Global
+Bird,"Vulture, King",Sarcoramphus,papa,Sarcoramphus papa,LC,Decreasing,Global
+Mammal,"Wallaby, Bennett's (Red-necked)",Notamacropus,rufogriseus,Notamacropus rufogriseus,LC,Stable,Global
+Mammal,"Wallaby, Tammar",Notamacropus,eugenii,Notamacropus eugenii,LC,Stable,Global
+Mammal,"Wallaroo, Common",Osphranter,robustus,Osphranter robustus,LC,Stable,Global
+Mammal,"Warthog, Common",Phacochoerus,africanus,Phacochoerus africanus,LC,Decreasing,Global
+Bird,"Weaver, White-Headded Buffalo",Dinemellia,dinemelli,Dinemellia dinemelli,LC,Stable,Global
+Mammal,"Wolf, Maned",Chrysocyon,brachyurus,Chrysocyon brachyurus,NT,Unknown,Global
+Bird,"Woodhoopoe, Green",Phoeniculus,purpureus,Phoeniculus purpureus,LC,Decreasing,Global
+Mammal,"Zebra, Grevy's",Equus,grevyi,Equus grevyi,EN,Stable,Global
+Mammal,"Zebra, Hartmann's Mountain",Equus,zebra,Equus zebra,VU,Increasing,Global
+Mammal,"Zebra, Plains",Equus,quagga,Equus quagga,NT,Decreasing,Global
