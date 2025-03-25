@@ -19,3 +19,5 @@ This project aims to analyze animal species with dedicated AZA SSPs and their IU
 
 # Sources
 IUCN. 2024. The IUCN Red List of Threatened Species. Version 2024-2. https://www.iucnredlist.org.
+
+AZA. 2024. Animal Program Database. https://www.aza.org.
