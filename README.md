@@ -15,13 +15,7 @@ This project aims to analyze animal species with dedicated AZA SSPs and their IU
 
 # Running the Program
 
-# Summary of Findings and Discussion 
-
-# Features from Rubric
-1. Read TWO data files (JSON, CSV, Excel, etc.)
-2. Clean your data and perform a pandas merge, then calculate new values.
-3. ??
-4. ??
+# Summary and Discussion 
 
 # Sources
 IUCN. 2024. The IUCN Red List of Threatened Species. Version 2024-2. https://www.iucnredlist.org.
