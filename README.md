@@ -28,6 +28,8 @@ This project aims to analyze animal species with dedicated AZA SSPs and their IU
 ### Future Plans
 
 # Sources
+SSP dataset created with data retrieved from the Association of Zoos and Aquariums' Animal Program Database.
 AZA. 2024. Animal Program Database. https://www.aza.org.
 
+Red List dataset created with data retrieved from the Internation Union for Conservation of Nature's Red List of Threatened Species. 
 IUCN. 2024. The IUCN Red List of Threatened Species. Version 2024-2. https://www.iucnredlist.org.
