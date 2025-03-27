@@ -13,8 +13,6 @@ The International Union for Conservation of Nature (IUCN), composed of both gove
 
 This project aims to analyze animal species with dedicated AZA SSPs and their IUCN Red List global extinction risk statuses to determine if SSPs prioritize the world’s most vulnerable species. 
 
-# Data Dictionary
-
 # Running the Program
 
 ### Virtual Environment
