@@ -16,9 +16,9 @@
 | ----- | --------- | ----------- |
 | assessment | object |
 | assessment_scope | object |
-| common_name | object |
-| genus_name | object |
+| common_name | object | The everyday, informal name used to refer to a specific species. |
+| genus_name | object | The taxonomic category that ranks above species and is denoted by a capitalized Latin name. |
 | population_trend | object |
-| scientific_name | object |
-| species_name | object |
-| taxon | object |
+| scientific_name | object | The unique, two-part Latin name used by scientists to refer to a specific species. |
+| species_name | object | | The taxonomic category that ranks below genus and is denoted by an uncapitalized latin name. |
+| taxon | object | The biological class of a specific species. |
