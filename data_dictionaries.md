@@ -14,11 +14,11 @@
 ### 0225_iucn_assessments.csv
 | Field | Data Type | Description |
 | ----- | --------- | ----------- |
-| assessment | object |
-| assessment_scope | object |
+| assessment | object | The classification of a specific species by the IUCN based on the species' risk of extinction.
+| assessment_scope | object | The geographic boundaries in which the extinction risk and population trend of a specific species was assessed. 
 | common_name | object | The everyday, informal name used to refer to a specific species. |
 | genus_name | object | The taxonomic category that ranks above species and is denoted by a capitalized Latin name. |
-| population_trend | object |
+| population_trend | object | The direction of change in the size of a species' population. |
 | scientific_name | object | The unique, two-part Latin name used by scientists to refer to a specific species. |
-| species_name | object | | The taxonomic category that ranks below genus and is denoted by an uncapitalized latin name. |
+| species_name | object | The taxonomic category that ranks below genus and is denoted by an uncapitalized latin name. |
 | taxon | object | The biological class of a specific species. |
