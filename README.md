@@ -21,7 +21,8 @@ The following features are included in this project in order to fulfull the requ
 2. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
 3. Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
 4. Utilize a virtual environment and include instructions in your README on how the user should set one up. 
-5. Build a custom data dictionary and include it either in your README or as a separate document. 
+5. Build a custom data dictionary and include it either in your README or as a separate document.
+6. Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
 
 # Running the Program
 
