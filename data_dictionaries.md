@@ -14,7 +14,7 @@
 ### 0225_iucn_assessments.csv
 | Field | Data Type | Description |
 | ----- | --------- | ----------- |
-| assessment | object | The classification of a specific species by the IUCN based on the species' risk of extinction.
+| assessment | object | The extinction risk status of a specific species as classified by the IUCN.
 | assessment_scope | object | The geographic boundaries in which the extinction risk and population trend of a specific species was assessed. 
 | common_name | object | The everyday, informal name used to refer to a specific species. |
 | genus_name | object | The taxonomic category that ranks above species and is denoted by a capitalized Latin name. |
