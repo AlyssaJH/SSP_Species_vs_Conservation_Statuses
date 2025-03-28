@@ -1,7 +1,7 @@
 # Introduction
 The Association of Zoos and Aquariums (AZA) is a non-profit, independent accrediting organization representing more than 250 facilities in the United States and internationally. These facilities may participate in any of the AZA’s many cooperatively managed Species Survival Plan (SSP) programs, which are established to manage a species’ ex situ (meaning “outside of its natural habitat” - e.g. in zoos) population. 
 
-The International Union for Conservation of Nature (IUCN), composed of both governmental and non-governmental organizations, is the global authority on the status of the natural world. The IUCN’s Red List of Threatened Species is the world’s most comprehensive source of information on the global extinction risk status of animal, fungus, and plant species. Evaluated species are classified into one of eight categories: 
+The International Union for Conservation of Nature (IUCN), which is composed of both governmental and non-governmental organizations, is the global authority on the status of the natural world. The IUCN’s Red List of Threatened Species is the world’s most comprehensive source of information on the global extinction risk status of animal, fungus, and plant species. Evaluated species are classified into one of eight categories: 
 - Extinct (EX)
 - Extinct in the Wild (EW)
 - Critically Endangered (CR)
@@ -18,7 +18,7 @@ Additionally, the direction of change of a species’ population size over time 
 - Unknown 
 - Unspecified
 
-This project aims to analyze animal species with dedicated AZA SSPs and their IUCN Red List global extinction risk statuses to determine if SSPs prioritize the world’s most vulnerable species. 
+The goal of this project is to analyze animal species with dedicated AZA SSPs and their IUCN Red List global extinction risk statuses to determine if SSPs prioritize the world’s most vulnerable species. 
 
 # Project Requirements 
 
