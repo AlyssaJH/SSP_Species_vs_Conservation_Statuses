@@ -69,7 +69,7 @@ This data was read, cleaned, manipulated, and analyzed using Pandas. All visuali
 
 ### Findings
 
-As can be seen from the pie chart titled ‘Species Distribution by Extinction Risk Status’, over half of all species with dedicated SSPs are classified as ‘near threatened’ or ‘least concern’, the 2 categories least at risk of extinction. Conversely, the populations of over half of the species with dedicated SSPs are classified as ‘decreasing’, which can be seen from the pie chart titled ‘Species Distribution by Population Trend’. The bar chart titled ‘Species Distribution by Extinction Risk Status and Population Trend’ unites these results and visualizes what percentage of SSP species are classified as each unique combination of extinction risk status and population trend. 
+As can be seen from the pie chart titled ‘Species Distribution by Extinction Risk Status’, over half of all species with dedicated SSPs are classified as ‘near threatened’ or ‘least concern’, the 2 categories least at risk of extinction. Conversely, the populations of over half of the species with dedicated SSPs are classified as ‘decreasing’, which can be seen from the pie chart titled ‘Species Distribution by Population Trend’. The bar chart titled ‘Species Distribution by Extinction Risk Status and Population Trend’ unites these results and visualizes the percentage of SSP species that are classified as each unique combination of extinction risk status and population trend. 
 
 ### Implications
 
@@ -79,7 +79,7 @@ It is important to note that SSPs are not the only avenue by which AZA facilitie
 
 ### Future Plans
 
-I plan to continue working on and improving this project in the coming months. My first course of action will be rework instances in which I manually entered data rather than referencing an object. I would also like to explore other methods of creating visualizations, perhaps creating a tableau dashboard. Ultimately, I would like to convert all tasks into custom functions to improve performance. 
+I plan to continue working on and improving this project in the coming months. My first course of action will be rework instances in which I manually entered data rather than referencing an object. I would also like to explore other methods of creating visualizations, perhaps by creating a tableau dashboard. Ultimately, I would like to convert all tasks into custom functions to improve performance. 
 
 # Sources
 SSP dataset created with information retrieved from the Association of Zoos and Aquariums' Animal Program Database.
