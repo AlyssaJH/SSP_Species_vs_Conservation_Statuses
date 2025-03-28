@@ -16,8 +16,10 @@ This project aims to analyze animal species with dedicated AZA SSPs and their IU
 # Running the Program
 
 To run this program, follow these steps: 
-1. Clone this repository.
-2. 
+1. Clone this repository to your local machine. 
+2. Create a virtual environment (instructions below).
+3. Install the necessary dependencies by running 'pip install -r requirements.txt'.
+4. Run 'capstone.ipynb' to view the Jupyter Notebook. 
 
 ### Virtual Environment
 
