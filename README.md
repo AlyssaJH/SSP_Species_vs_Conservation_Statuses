@@ -30,13 +30,13 @@ To run this program, follow these steps:
 1. Clone this repository to your local machine. 
 2. Create and activate a virtual environment (instructions below).
 3. Install the necessary dependencies by running 'pip install -r requirements.txt'.
-4. You can now open the project folder in Visual Studio Code to explore the repository.
+4. You can now run all cells in the project. 
 5. When you are done exploring the repository, deactivate the virtual environment. 
 
 ### Virtual Environment Instructions
 
-1. After you have cloned the repository to your local machine, navigate to the project folder via the command line.
-2. Create a virtual environment in the project folder.
+1. After you have cloned the repository to your local machine, open the project folder in Visual Studio Code.
+2. In VS Code, create a virtual environment via the terminal.
 3. Activate the virtual environment.
 4. Install the required packages.
 5. When you are done exploring the repository, deactivate the virtual environment.
