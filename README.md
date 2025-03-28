@@ -65,7 +65,7 @@ The purpose of this project was to analyze animal species with dedicated AZA SSP
 
 To complete this analysis, I created two datasets: one with data retrieved from the Association of Zoos and Aquariums’ Animal Program Database and one with data retrieved from the International Union for Conservation of Nature’s Red List of Threatened species. 
 
-This data was read, cleaned, manipulated, and analyzed using Pandas. All visualizations were created using Matplotlib.  A data dictionary for each dataset is included in the repository, and instructions on how to run the project using a virtual environment can be found in the README. 
+This data was read, cleaned, manipulated, and analyzed using Pandas. All visualizations were created using Matplotlib.  A data dictionary for each dataset is included in the repository and instructions on how to run the project using a virtual environment can be found in the README. 
 
 ### Findings
 
