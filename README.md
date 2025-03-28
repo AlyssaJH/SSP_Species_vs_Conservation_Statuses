@@ -11,6 +11,13 @@ The International Union for Conservation of Nature (IUCN), composed of both gove
 - Least Concern (LC)
 - Data Deficient (DD)
 
+Additionally, the direction of change of a species’ population size over time is assessed and categorized as one of the following: 
+- Increasing 
+- Decreasing 
+- Stable 
+- Unknown 
+- Unspecified
+
 This project aims to analyze animal species with dedicated AZA SSPs and their IUCN Red List global extinction risk statuses to determine if SSPs prioritize the world’s most vulnerable species. 
 
 # Project Requirements 
