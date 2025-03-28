@@ -15,6 +15,8 @@ This project aims to analyze animal species with dedicated AZA SSPs and their IU
 
 # Running the Program
 
+To run this program, follow these steps: 
+
 ### Virtual Environment
 
 # Summary and Discussion 
