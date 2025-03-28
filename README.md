@@ -30,7 +30,7 @@ To run this program, follow these steps:
 1. Clone this repository to your local machine. 
 2. Create and activate a virtual environment (instructions below).
 3. Install the necessary dependencies by running 'pip install -r requirements.txt'.
-4. You can now run all cells in the project. 
+4. You can now run all cells in the Jupyter Notebook. 
 5. When you are done exploring the repository, deactivate the virtual environment. 
 
 ### Virtual Environment Instructions
