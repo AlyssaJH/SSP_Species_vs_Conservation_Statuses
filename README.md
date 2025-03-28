@@ -50,12 +50,12 @@ To run this program, follow these steps:
 
 ### Virtual Environment Commands
 
-| Command | GitBash | Linux/Mac |
-| ------- | ------- | --------- |
-| Create | python -m venv venv | python3 -m venv venv |
-| Activate | source venv/Scripts/activate | source venv/bin/activate |
-| Install | pip install -r requirements.txt | pip install -r requirements.txt |
-| Deactivate | deactivate | deactivate |
+| Command | GitBash | Linux/Mac | Windows | 
+| ------- | ------- | --------- | ------- |
+| Create | python -m venv venv | python3 -m venv venv | python -m venv venv |
+| Activate | source venv/Scripts/activate | source venv/bin/activate | venv\Scripts\activate.bat |
+| Install | pip install -r requirements.txt | pip install -r requirements.txt | pip install requirements.txt |
+| Deactivate | deactivate | deactivate | deactivate |
 
 # Discussion 
 
