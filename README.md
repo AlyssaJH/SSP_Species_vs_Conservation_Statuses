@@ -69,6 +69,8 @@ This data was read, cleaned, manipulated, and analyzed using Pandas. All visuali
 
 ### Findings
 
+As can be seen from the pie chart titled ‘Species Distribution by Extinction Risk Status’, over half of all species with dedicated SSPs are classified as ‘near threatened’ or ‘least concerned’, the 2 categories least at risk of extinction. Conversely, the populations of over half of the species with dedicated SSPs are classified as ‘decreasing’, which can be seen from the pie chart titled ‘Species Distribution by Population Trend’. The bar chart titled ‘Species Distribution by Extinction Risk Statistics and Population Trend’ unites these results and reveals what percent of SSP species are classified as each unique combination of extinction risk and population trend. 
+
 ### Implications
 
 ### Future Plans
