@@ -13,6 +13,16 @@ The International Union for Conservation of Nature (IUCN), composed of both gove
 
 This project aims to analyze animal species with dedicated AZA SSPs and their IUCN Red List global extinction risk statuses to determine if SSPs prioritize the world’s most vulnerable species. 
 
+# Project Requirements 
+
+The following features are included in this project in order to fulfull the requirements of Code:Kentucky's data analytics course: 
+
+1. Read TWO data files (JSON, CSV, Excel, etc.).
+2. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
+3. Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.
+4. Utilize a virtual environment and include instructions in your README on how the user should set one up. 
+5. Build a custom data dictionary and include it either in your README or as a separate document. 
+
 # Running the Program
 
 To run this program, follow these steps: 
