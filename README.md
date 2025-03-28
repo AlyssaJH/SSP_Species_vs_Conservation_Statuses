@@ -79,6 +79,8 @@ It is important to note that SSPs are not the only avenue by which AZA facilitie
 
 ### Future Plans
 
+I plan to continue working on and improving this project in the coming months. My first course of action will be rework instances in which I manually entered data rather than referencing an object. I would also like to explore other methods of creating visualizations, perhaps creating a tableau dashboard. Ultimately, I would like to convert all tasks into custom functions to improve performance. 
+
 # Sources
 SSP dataset created with data retrieved from the Association of Zoos and Aquariums' Animal Program Database.
 
