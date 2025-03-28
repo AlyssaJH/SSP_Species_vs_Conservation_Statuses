@@ -30,7 +30,7 @@ To run this program, follow these steps:
 1. Clone this repository to your local machine. 
 2. Create and activate a virtual environment (instructions below).
 3. Install the necessary dependencies by running 'pip install -r requirements.txt'.
-4. Launch Jupyter Notebook by running 'jupyter notebook'.
+4. You can now run capstone.ipynb to explore the project.
 5. When you are done exploring the repository, deactivate the virtual environment. 
 
 ### Virtual Environment Instructions
