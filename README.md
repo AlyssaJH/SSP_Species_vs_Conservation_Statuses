@@ -73,7 +73,7 @@ As can be seen from the pie chart titled ‘Species Distribution by Extinction R
 
 ### Implications
 
-The results of my analysis suggest that species with dedicated SSPs are likely to be faced with a low risk of extinction and a population that is decreasing in size. Whether these parameters are taken into account when determining for which species to establish dedicated SSPs remains unknown. 
+The results of my analysis suggest that species with dedicated SSPs are likely to be those faced with a low risk of extinction but a population that is decreasing in size. Whether these parameters are taken into account when determining which species to establish dedicated SSPs for remains unknown. 
 
 It is important to note that SSPs are not the only avenue by which AZA facilities protect vulnerable species. Though a species may not have its own SSP, it is likely safeguarded by at least one of the AZA’s many other conservation initiatives. 
 
