@@ -22,7 +22,7 @@ The goal of this project is to analyze animal species with dedicated AZA SSPs an
 
 # Project Requirements 
 
-The following features are included in this project in order to fulfull the requirements of Code:Kentucky's data analytics course: 
+The following features are included in this project in order to fulfill the requirements of Code:Kentucky's data analytics course: 
 
 1. Read TWO data files (JSON, CSV, Excel, etc.).
 2. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
