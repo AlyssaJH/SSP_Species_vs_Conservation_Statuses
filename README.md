@@ -82,10 +82,10 @@ It is important to note that SSPs are not the only avenue by which AZA facilitie
 I plan to continue working on and improving this project in the coming months. My first course of action will be rework instances in which I manually entered data rather than referencing an object. I would also like to explore other methods of creating visualizations, perhaps creating a tableau dashboard. Ultimately, I would like to convert all tasks into custom functions to improve performance. 
 
 # Sources
-SSP dataset created with data retrieved from the Association of Zoos and Aquariums' Animal Program Database.
+SSP dataset created with information retrieved from the Association of Zoos and Aquariums' Animal Program Database.
 
 AZA. 2024. Animal Program Database. https://www.aza.org.
 
-Red List dataset created with data retrieved from the Internation Union for Conservation of Nature's Red List of Threatened Species. 
+Red List dataset created with information retrieved from the Internation Union for Conservation of Nature's Red List of Threatened Species. 
 
 IUCN. 2024. The IUCN Red List of Threatened Species. Version 2024-2. https://www.iucnredlist.org.
