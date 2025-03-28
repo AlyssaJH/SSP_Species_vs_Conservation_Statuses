@@ -17,11 +17,27 @@ This project aims to analyze animal species with dedicated AZA SSPs and their IU
 
 To run this program, follow these steps: 
 1. Clone this repository to your local machine. 
-2. Create a virtual environment (instructions below).
+2. Create and activate a virtual environment (instructions below).
 3. Install the necessary dependencies by running 'pip install -r requirements.txt'.
-4. Run 'capstone.ipynb' to view the Jupyter Notebook. 
+4. Run 'capstone.ipynb' to view the Jupyter Notebook.
+5. When you are done exploring the repository, deactivate the virtual environment. 
 
-### Virtual Environment
+### Virtual Environment Instructions
+
+1. After you have cloned the repository to your local machine, navigate to the project folder via the command line.
+2. Create a virtual environment in the project folder.
+3. Activate the virtual environment.
+4. Install the required packages.
+5. When you are done exploring the repository, deactivate the virtual environment.
+
+### Virtual Environment Commands
+
+| Command | GitBash | Linux/Mac | Windows |
+| ------- | ------- | --------- | ------- |
+| Create | python -m venv venv | python3 -m venv venv | python -m venv venv |
+| Activate | source venv/Scripts/activate | source venv/bin/activate | venv\Scripts\activate |
+| Install | pip install -r requirements.txt | pip install -r requirements.txt | pip install -r requirements.txt |
+| Deactivate | deactivate | deactivate | deactivate |
 
 # Summary and Discussion 
 
